@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(36, 34, 32);
+    color: white;
+}
+.guess{
+    border: 5px solid grey;
+}
+
+.guess h1,h2{
+    color:rgb(166, 185, 127);
+    text-align: center;
+    
+}
+.guess-field{
+    text-align: center;
+    margin-bottom: 20px;
+}
+.guess-field input{
+    margin: 20px;
+    
+    cursor: pointer;
+    font-size: 25px;
+}
+.guesssubt{
+    background-color: rgb(166, 185, 127);
+    
+    font-size: 25px;
+    
+}
+.result{
+    text-align: center;
+}
